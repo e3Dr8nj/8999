@@ -1,0 +1,24 @@
+{
+  "name": "gittest3",
+  "version": "1.0.0",
+  "description": "\"# 8999\"",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run start"
+    ,"test": "echo \"Error: no test specified\" && exit 1"
+    ,"start":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e3Dr8nj/8999.git"
+  },
+  "author": "ch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e3Dr8nj/8999/issues"
+  },
+  "homepage": "https://github.com/e3Dr8nj/8999#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
